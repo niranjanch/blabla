@@ -1,0 +1,20 @@
+{
+    "name": "niranjan/blabla",
+    "description": "Sample package for blabla",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["laravel"],
+    "authors": [
+        {
+            "name": "niranjan",
+            "email": "niranjan@inkoniq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Niranjanch\\Blabla\\": "src/"
+        }
+    }
+}
